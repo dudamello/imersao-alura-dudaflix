@@ -1,183 +1,187 @@
 {
   "categorias": [
     {
-      "titulo": "Front End",
+      "titulo": "YouTube",
       "link": "https://www.alura.com.br/formacao-front-end",
-      "cor": "#6BD1FF",
+      "cor": "#A397E0",
       "link_extra": {
-        "text": "Formação de Front End na Alura",
-        "url": "https://www.alura.com.br/cursos-online-front-end"
+        "text": "Youtubers favoritos da Duda",
+        "url": "https://www.youtube.com/"
       },
       "videos": [
         {
-          "titulo": "O que faz uma desenvolvedora front-end? #HipstersPontoTube",
-          "url": "https://www.youtube.com/watch?v=ZY3-MFxVdEw"
+          "titulo": "IT'S BRITNEY BITCH",
+          "url": "https://www.youtube.com/watch?v=LOZuxwVk7TU"
         },
         {
-          "titulo": "SEO com React",
-          "url": "https://www.youtube.com/watch?v=c8mVlakBESE"
+          "titulo": "Física e Afins",
+          "url": "https://www.youtube.com/watch?v=wAQcOtxbMdY"
         },
         {
-          "titulo": "Componentização com VanillaJS #AluraMais",
-          "url": "https://www.youtube.com/watch?v=LatCKpcOMak"
+          "titulo": "Jout Jout",
+          "url": "https://www.youtube.com/watch?v=I-3ocjJTPHg"
         },
         {
-          "titulo": "Pare de chutar e aprenda a display: inline #01",
-          "url": "https://www.youtube.com/watch?v=5PS6ku8NzIE"
+          "titulo": "Us The Duo",
+          "url": "https://www.youtube.com/watch?v=1bK_fPs3T5k"
         },
         {
-          "titulo": "Template String: Interpolando strings com JavaScript #AluraMais",
-          "url": "https://www.youtube.com/watch?v=ORI_HTXaIw0"
+          "titulo": "Prazer, Karnal",
+          "url": "https://www.youtube.com/watch?v=b9AT__8RmCA"
         },
         {
-          "titulo": "Qual é a melhor linguagem de programação? #HipstersPontoTube",
-          "url": "https://www.youtube.com/watch?v=Uh-GNH-t89w"
+          "titulo": "Toda Poesia",
+          "url": "https://www.youtube.com/watch?v=ht9VcJcI20Q"
         },
         {
-          "titulo": "Novidades do Angular v9",
-          "url": "https://www.youtube.com/watch?v=34uHo7hFmG0"
+          "titulo": "Kurgesagt - In a Nutshell",
+          "url": "https://www.youtube.com/watch?v=ck4RGeoHFko"
         },
         {
-          "titulo": "Base para aprender os frameworks",
-          "url": "https://www.youtube.com/watch?v=QzDjdlF1BQI"
+          "titulo": "GIOH",
+          "url": "https://www.youtube.com/watch?v=njOQqJiRzi8"
         }        
       ]
     },
     {
-      "titulo": "Back End",
-      "cor": "#00C86F",
+      "titulo": "Filmes",
+      "cor": "#DA7A61",
       "link_extra": {
-        "text": "Cursos de Back End na Alura",
-        "url": "https://www.alura.com.br/cursos-online-programacao"
+        "text": "Filmes que a Duda gosta",
+        "url": "https://www.netflix.com/"
       },
       "videos": [
         {
-          "titulo": "PERCURSO em NÍVEL em ÁRVORE BINÁRIA | Estruturas de Dados #14",
-          "url": "https://www.youtube.com/watch?v=UOK7nS2E9xM"
+          "titulo": "Garota Exemplar",
+          "url": "https://www.youtube.com/watch?v=esGn-xKFZdU"
         },
         {
-          "titulo": "Coders4Tips - S01E04: GitHub CLI - Uma Nova Experiência no Github!",
-          "url": "https://www.youtube.com/watch?v=6o6-bKOZOEY"
+          "titulo": "As Vantagens de Ser Invisível",
+          "url": "https://www.youtube.com/watch?v=7YBFth3_MOo"
         },
         {
-          "titulo": "Programei 4 robôs que criam vídeos para mim no YouTube",
-          "url": "https://www.youtube.com/watch?v=kjhu1LEmRpY"
+          "titulo": "Garotas Malvadas",
+          "url": "https://www.youtube.com/watch?v=s5muZmb_9wA"
         },
         {
-          "titulo": "API: Dicionário do Programador",
-          "url": "https://www.youtube.com/watch?v=vGuqKIRWosk"
+          "titulo": "O Jogo da Imitação",
+          "url": "https://www.youtube.com/watch?v=YIkKbMcJL_4"
         }, 
         {
-          "titulo": "Usando Git Direito",
-          "url": "https://www.youtube.com/watch?v=6OokP-NE49k"
+          "titulo": "Os Incríveis 2",
+          "url": "https://www.youtube.com/watch?v=FKy5DyTEnj4"
         }
       ]
     },
     {
-      "titulo": "Data Science e Inteligência Artificial",
-      "cor": "#9cd33b",
+      "titulo": "Séries",
+      "cor": "#A397E0",
       "link_extra": {
-        "text": "Cursos de Data Science na Alura",
-        "url": "https://www.alura.com.br/formacao-data-science"
+        "text": "Séries que a Duda gosta",
+        "url": "https://www.netflix.com/"
       },
       "videos": [
         {
-          "titulo": "Teste de Turing",
-          "url": "https://www.youtube.com/watch?v=BaPGU4JWa34"
+          "titulo": "Mr. Robot",
+          "url": "https://www.youtube.com/watch?v=mA_8ZW2Kl5I"
         },
         {
-          "titulo": "O que é Data Science?",
-          "url": "https://www.youtube.com/watch?v=5b9Z8toVaAU&t=9s"
+          "titulo": "Orphan Black",
+          "url": "https://www.youtube.com/watch?v=do_BCA-vR9E"
         },
         {
-          "titulo": "Melhor forma de aprender Python",
-          "url": "https://www.youtube.com/watch?v=Gojqw9BQ5qY"
+          "titulo": "Coisa Mais Linda",
+          "url": "https://www.youtube.com/watch?v=gi5pXrQhZxQ"
         },
         {
-          "titulo": "Como ingressar no mercado de Data Science?",
-          "url": "https://www.youtube.com/watch?v=gxyjGmOV540"
+          "titulo": "How to Get Away With Murder",
+          "url": "https://www.youtube.com/watch?v=dkb-aBaxkVk"
         }
       ]
     },
     {
-      "titulo": "Filmes",
-      "cor": "orange",
-      "videos": [
-        {
-          "titulo": "Interestellar",
-          "url": "https://www.youtube.com/watch?v=frD_IiY_A3E"
-        },
-        {
-          "titulo": "Gattaca",
-          "url": "https://www.youtube.com/watch?v=Dl0tYLbrhhs"
-        },
-        {
-          "titulo": "A Chegada",
-          "url": "https://www.youtube.com/watch?v=rNciXGzYZms"
-        },
-        {
-          "titulo": "Feitiço do Tempo",
-          "url": "https://www.youtube.com/watch?v=zi8d69P9NvI"
-        }
-      ]
-    },
-    {
-      "titulo": "Games",
-      "cor": "red",
+      "titulo": "Pets",
+      "cor": "#DA7A61",
       "link_extra": {
-        "text": "Formação de Jogos na Alura",
-        "url": "https://www.alura.com.br/formacao-jogos-unity"
+        "text": "Vídeos de pets que a Duda gosta",
+        "url": "https://www.youtube.com/"
       },
       "videos": [
         {
-          "titulo": "Final Fantasy 7",
-          "url": "https://www.youtube.com/watch?v=I_ATSCTnUD8"
+          "titulo": "Pandas",
+          "url": "https://www.youtube.com/watch?v=6lLThB5iLU8"
         },
         {
-          "titulo": "Assassins Creed Valhalla",
-          "url": "https://www.youtube.com/watch?v=KDfdjB9uL0U"
+          "titulo": "Cachorros",
+          "url": "https://www.youtube.com/watch?v=XjOUGrmKXOA"
         },
         {
-          "titulo": "God of War 4",
-          "url": "https://www.youtube.com/watch?v=FyIwEFXOcaE"
+          "titulo": "Gatos",
+          "url": "https://www.youtube.com/watch?v=STnY8Nl9oz0"
         },
         {
-          "titulo": "Resident Evil 8",
-          "url": "https://www.youtube.com/watch?v=JSapXD9vxYA"
-        },
-        {
-          "titulo": "Pokémon Let's Go Pikachu/Eevee",
-          "url": "https://www.youtube.com/watch?v=L56q_k2ydrs"
+          "titulo": "Leão",
+          "url": "https://www.youtube.com/watch?v=dYHrmg1UU0U"
         }
       ]
     },
     {
-      "titulo": "Aprendendo a aprender tecnologia",
-      "cor": "#6b5be2",
+      "titulo": "Músicas",
+      "cor": "#A397E0",
       "link_extra": {
-        "text": "Curso sobre aprendizado na Alura",
-        "url": "https://alura.com.br/curso-online-aprender-a-aprender-tecnicas-para-seu-autodesenvolvimento"
+        "text": "Músicas que a Duda gosta",
+        "url": "https://www.youtube.com/"
       },
       "videos": [
         {
-          "titulo": "Como estudar melhor?",
-          "url": "https://www.youtube.com/watch?v=Is6c9KSGCbk&feature=youtu.be"
+          "titulo": "Outside - TENDER",
+          "url": "https://www.youtube.com/watch?v=iPdJM_7CgU8"
         },
         {
-          "titulo": "Faculdade",
-          "url": "https://www.youtube.com/watch?v=jw06H8esyzQ&feature=youtu.be"
+          "titulo": "Goeey - Glass Animals",
+          "url": "https://www.youtube.com/watch?v=jeo3an2M_Lo"
         },
         {
-          "titulo": "Frameworks",
-          "url": "https://www.youtube.com/watch?v=QzDjdlF1BQI"
+          "titulo": "Bixinho - DUDA BEAT",
+          "url": "https://www.youtube.com/watch?v=gFUuxGOsMow"
         },
         {
-          "titulo": "A mágica do Aprendizado",
-          "url": "https://www.youtube.com/watch?v=oTEXzpfEpPY"
+          "titulo": "idontwannabeyouanymore - Billie Eilish",
+          "url": "https://www.youtube.com/watch?v=-tn2S3kJlyU"
         },
         {
-          "titulo": "Como aprender a programar?",
-          "url": "https://www.youtube.com/watch?v=MwCx2qKdbDw&feature=youtu.be"
+          "titulo": "Infinito Particular - Marisa Monte",
+          "url": "https://www.youtube.com/watch?v=yxiHYuGT6ZU"
+        }
+      ]
+    },
+    {
+      "titulo": "Tecnologia",
+      "cor": "#DA7A61",
+      "link_extra": {
+        "text": "Vídeos de tecnologia que a Duda gosta",
+        "url": "https://www.youtube.com/"
+      },
+      "videos": [
+        {
+          "titulo": "Programa de Índio",
+          "url": "https://www.youtube.com/watch?v=qYfAAtypWwQ"
+        },
+        {
+          "titulo": "Dicionário do Programador",
+          "url": "https://www.youtube.com/watch?v=GE6asEjTFv8"
+        },
+        {
+          "titulo": "Angela Wu",
+          "url": "https://www.youtube.com/watch?v=DIn-4nRfkUg"
+        },
+        {
+          "titulo": "Apple",
+          "url": "https://www.youtube.com/watch?v=0EX-li69XvU"
+        },
+        {
+          "titulo": "Filipe Deschamps",
+          "url": "https://www.youtube.com/watch?v=P5kfA6ncOs8"
         }
       ]
     }
