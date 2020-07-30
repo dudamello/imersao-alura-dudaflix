@@ -1,25 +1,86 @@
-import React from 'react';
+import React, { useState } from 'react';
 import { Link } from 'react-router-dom';
 import PageDefault from '../../../components/PageDefault';
+import FormField from '../../../components/FormField';
 
 function CadastroCategoria() {
+  const valoreIniciais = {
+    nome: '',
+    descricao: '',
+    cor: '',
+  }
+
+  const [categorias, setCategorias] = useState([]);
+  const [values, setValues] = useState(valoreIniciais);
+
+  function setValue(chave, valor) {
+    setValues({
+      ...values,
+      [chave]: valor, // nome: 'valor''
+    })
+  }
+
+  function handleChange(infosDoEvento) {
+    const { value } = infosDoEvento.target;
+    setValue(
+      infosDoEvento.target.getAttribute('name'),
+      value
+    );
+  }
+
+
   return (
     <PageDefault>
-      <h1>Cadastro de Categoria</h1>
+      <h1>Cadastro de Categoria: {values.nome}</h1>
 
-      <form>
+      <form onSubmit={function handleSubmit(infosDoEvento) {
+        infosDoEvento.preventDefault();
+        setCategorias([
+          ...categorias,
+          values
+        ]);
 
-        <label>
-          Nome da Categoria:
-          <input
-            type="text"
-          />
-        </label>
+        setValues({valoreIniciais})
+      }}>
+
+      <FormField
+        label="Nome da Categoria"
+        type="text"
+        name="nome"
+        value={values.nome}
+        onChange={handleChange}
+      />
+
+      <FormField
+        label="Descricao"
+        type="text"
+        name="descricao"
+        value={values.descricao}
+        onChange={handleChange}
+      />  
+
+      <FormField
+        label="Cor"
+        type="color"
+        name="cor"
+        value={values.cor}
+        onChange={handleChange}
+      />
 
         <button>
           Cadastrar
         </button>
       </form>
+
+      <ul> 
+        {categorias.map((categoria, indice) => {
+          return (
+            <li key={`${categoria}${indice}`}>
+              {categoria.nome}
+            </li>
+          )
+        })}
+      </ul>
 
 
       <Link to="/">
